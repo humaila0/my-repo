@@ -1,3 +1,3 @@
-# my-repo
+# 7 days leetcode challenges 
 my first repo<br>
 Author-Humaila
